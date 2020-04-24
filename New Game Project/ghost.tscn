@@ -1,0 +1,6 @@
+[gd_scene format=2]
+
+[node name="ghost" type="Sprite"]
+
+[node name="alpha_tween" type="Tween" parent="."]
+
